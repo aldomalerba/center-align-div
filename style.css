@@ -1,0 +1,18 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    display: flex;
+    height: 100vh;
+    background-color: aqua;
+    align-items: center;
+    justify-content: center;
+}
+
+.item{
+    background-color: salmon;
+    width: 25vw;
+    height: 25vh;
+}
